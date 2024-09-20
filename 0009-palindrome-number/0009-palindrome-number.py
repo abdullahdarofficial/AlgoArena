@@ -42,3 +42,4 @@ class Solution:
         
         # Compare original number with reversed_half
         return original == reversed_half
+
